@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.3.0](https://github.com/wix-private/lerna-version-ci-playground/compare/module-2@1.2.0...module-2@1.3.0) (2019-04-22)
+
+
+### Features
+
+* **module-2:** bar1 ([eed7b60](https://github.com/wix-private/lerna-version-ci-playground/commit/eed7b60))
+* **module-2:** bar2 ([2540567](https://github.com/wix-private/lerna-version-ci-playground/commit/2540567))
+
+
+
+
+
 # [1.2.0](https://github.com/wix-private/lerna-version-ci-playground/compare/module-2@1.1.0...module-2@1.2.0) (2019-04-22)
 
 
