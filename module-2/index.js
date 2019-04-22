@@ -1,5 +1,5 @@
 function bar() {
-  console.log("new bar 2");
+  console.log("new bar 3");
 }
 
 module.exports = {
