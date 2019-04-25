@@ -18,10 +18,15 @@ function bar4() {
   console.log("bar4");
 }
 
+function bar5() {
+  console.log("bar5");
+}
+
 module.exports = {
   bar,
   bar1,
   bar2,
   bar3,
-  bar4
+  bar4,
+  bar5
 };
