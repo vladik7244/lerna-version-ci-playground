@@ -1,3 +1,3 @@
 # lerna-version-ci-playground
 
-test 5
+test 6
