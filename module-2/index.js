@@ -10,8 +10,13 @@ function bar2() {
   console.log("bar2");
 }
 
+function bar3() {
+  console.log("bar3");
+}
+
 module.exports = {
   bar,
   bar1,
-  bar2
+  bar2,
+  bar3
 };
