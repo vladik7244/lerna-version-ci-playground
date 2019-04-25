@@ -22,6 +22,8 @@ function bar5() {
   console.log("bar5");
 }
 
+console.log('bar6');
+
 module.exports = {
   bar,
   bar1,
