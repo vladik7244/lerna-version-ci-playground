@@ -23,6 +23,7 @@ function bar5() {
 }
 
 console.log('bar6');
+console.log('bar7');
 
 module.exports = {
   bar,
